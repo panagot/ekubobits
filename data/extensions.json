@@ -1,0 +1,17 @@
+[
+  {
+    "id": "oracle",
+    "docsUrl": "https://docs.ekubo.org/integration-guides/extensions/oracle-extension",
+    "tags": ["oracle", "twap", "liquidity"]
+  },
+  {
+    "id": "twamm",
+    "docsUrl": "https://docs.ekubo.org/integration-guides/extensions/twamm-extension",
+    "tags": ["twamm", "orders"]
+  },
+  {
+    "id": "limit-orders",
+    "docsUrl": "https://docs.ekubo.org/integration-guides/extensions/limit-order-extension",
+    "tags": ["limit-order", "liquidity"]
+  }
+]
